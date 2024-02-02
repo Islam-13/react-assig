@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-assig/static/css/main.bbb44e37.css",
+    "main.js": "/react-assig/static/js/main.a5cb639e.js",
+    "index.html": "/react-assig/index.html",
+    "main.bbb44e37.css.map": "/react-assig/static/css/main.bbb44e37.css.map",
+    "main.a5cb639e.js.map": "/react-assig/static/js/main.a5cb639e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbb44e37.css",
+    "static/js/main.a5cb639e.js"
+  ]
+}
